@@ -21,7 +21,7 @@
 #     ...
 # ]
 LINK:
-    - {link: "https://www.oldit.cn/link/", theme: "butterfly"}  # link改为你的友链页地址，theme选择你的博客主题
+    - {link: "https://www.oldit.cn/link/", theme: "common2"}  # link改为你的友链页地址，theme选择你的博客主题
 
 # 配置项友链
 # enable：# 是否启用配置项友链 true/false（针对还未适配主题或者有定制需求的用户）
